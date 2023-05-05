@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aein1364
+- 👋 Hi, I’m Aein Rezaei
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning flutter
 
